@@ -1,5 +1,5 @@
 # Hi! I'm Kuba 👋
-im Enthusiastic future Junior Java Full-stack Developer with a strong foundation in Java and front-end technologies!
+Im enthusiastic future Junior Java Full-stack Developer with a strong foundation in Java and front-end technologies!
 <br>
 <br>
 # 💫 About Me:
