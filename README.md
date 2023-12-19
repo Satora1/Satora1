@@ -1,6 +1,6 @@
 # Hi! I'm Kuba 👋
 Im enthusiastic future Junior Java Full-stack Developer with a strong foundation in Java and front-end technologies!
-come and check 💫https://kryptosatora.store/💫
+come and check 💫 https://kryptosatora.store/ 💫
 <br>
 <br>
 # 💫 About Me:
