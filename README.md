@@ -1,7 +1,7 @@
 # Hi! I'm Kuba 👋
 Im enthusiastic future Junior Java Full-stack Developer with a strong foundation in Java and front-end technologies!
 come and check 💫 https://kryptosatora.store/ 💫
-Also curentyly working on AI app , you can check on Vercel and (https://ai-image-generator-kn324w84y-satora1s-projects.vercel.app/)
+Also curentyly working on AI app , you can check on Vercel and (https://ai-image-generator-seven.vercel.app)
 <br>
 <br>
 # 💫 About Me:
