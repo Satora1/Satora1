@@ -3,6 +3,7 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 
 💫 Check out my portfolio:  
 [Ethereum transaction provider](https://kryptosatora.store)
+<br>
 [AI Image Generator](https://ai-image-generator-seven.vercel.app)
 
 🚀 I'm currently working on an exciting Zoom like application. Feel free to explore it on ...
