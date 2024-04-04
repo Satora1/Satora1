@@ -2,7 +2,7 @@
 Im enthusiastic future Junior Java Full-stack Developer with a solid foundation in Java and front-end technologies!
 
 💫 Check out my portfolio:  
-[Ethereum transaction provider](https://kryptosatora.store)
+[Ethereum transaction provider](web3-project-lovat.vercel.app)
 <br>
 [AI Image Generator](https://ai-image-generator-seven.vercel.app)
 
