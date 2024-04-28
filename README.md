@@ -8,7 +8,7 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 <br>
 [AI Image Generator](https://ai-image-generator-seven.vercel.app)
 
-🚀 I'm currently working on an exciting Zoom like application. Feel free to explore it 
+🚀 I'm currently working on an exciting Figma like application. Feel free to explore it 
 <br>
 <br>
 # 💫 About Me:
