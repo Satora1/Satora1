@@ -1,6 +1,8 @@
 # Hi! I'm Kuba 👋
 Im enthusiastic future Junior Java Full-stack Developer with a solid foundation in Java and front-end technologies!
-
+<br>
+🚀 I'm currently working on an exciting Banking application. Feel free to explore my portfolio
+<br>
 💫 Check out my portfolio:  
 [Zoom Clone](https://zoom-clone-one-gilt.vercel.app)
 <br>
@@ -8,8 +10,7 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 <br>
 [AI Image Generator](https://ai-image-generator-seven.vercel.app)
 
-🚀 I'm currently working on an exciting Figma like application. Feel free to explore it 
-<br>
+
 <br>
 # 💫 About Me:
 🔭I’m currently working on getting my first commercial experience as Junior Next.js/Full Stack Dev.<br><br>👯I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my coding skills.<br><br>🌱I’m a passionate Java developer currently working on an exciting RPG game project and WEB3 aplication based on blockchain. In this endeavor, I explore and implement various solutions to create an engaging gaming experience. My journey involves leveraging Java’s capabilities to build and optimize game mechanics, providing a dynamic and immersive gameplay.<br><br>👥I’m actively seeking opportunities to expand my programming skills and horizons. Eager to take on new challenges and contribute to innovative projects. Let’s connect and explore how I can bring value to your team!<br><br>📫 You can reach me on satorakuba@gmail.com
