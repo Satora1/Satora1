@@ -1,7 +1,9 @@
 # Hi! I'm Kuba 👋
 Im enthusiastic future Junior Java Full-stack Developer with a solid foundation in Java and front-end technologies!
 <br>
-🚀 I'm currently working on an exciting Banking application. Feel free to explore my portfolio
+<br>
+🚀 I'm currently working on an exciting Banking application. Feel free to explore my Apps
+<br>
 <br>
 💫 Check out my portfolio:  
 [Zoom Clone](https://zoom-clone-one-gilt.vercel.app)
