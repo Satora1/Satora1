@@ -8,10 +8,10 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 💫 Check out my portfolio:  
 [Bank Menagment](https://banking-menagement.vercel.app/)
 <br>
-![BANK](https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a)
-<br>
+<img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="300"><br>
 [Zoom Clone](https://zoom-clone-one-gilt.vercel.app)
 <br>
+<img width="300" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"><br>
 [Ethereum transaction provider](https://web3-project-lovat.vercel.app)
 <br>
 [AI Image Generator](https://ai-image-generator-seven.vercel.app)
