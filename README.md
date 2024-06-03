@@ -15,9 +15,9 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 [Ethereum transaction provider](https://web3-project-lovat.vercel.app)
 <br>
 <img width="300" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"><br><br>
-[AI Image Generator](https://ai-image-generator-seven.vercel.app)
-
-
+[AI Image Generator](https://ai-image-generator-seven.vercel.app)<br>
+<img width="960" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd">
+<br>
 <br>
 # 💫 About Me:
 🔭I’m currently working on getting my first commercial experience as Junior Next.js/Full Stack Dev.<br><br>👯I’m looking to collaborate on projects related to Java, Spring, React or anything that will help me further develop my coding skills.<br><br>🌱I’m a passionate Java developer currently working on an exciting RPG game project and WEB3 aplication based on blockchain. In this endeavor, I explore and implement various solutions to create an engaging gaming experience. My journey involves leveraging Java’s capabilities to build and optimize game mechanics, providing a dynamic and immersive gameplay.<br><br>👥I’m actively seeking opportunities to expand my programming skills and horizons. Eager to take on new challenges and contribute to innovative projects. Let’s connect and explore how I can bring value to your team!<br><br>📫 You can reach me on satorakuba@gmail.com
