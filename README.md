@@ -6,17 +6,14 @@ Im enthusiastic future Junior Java Full-stack Developer with a solid foundation 
 <br>
 <br>
 💫 Check out my portfolio:  
-[Bank Menagment](https://banking-menagement.vercel.app/)
+| [Bank Menagment](https://banking-menagement.vercel.app/) | [Zoom Clone](https://zoom-clone-one-gilt.vercel.app) |
+|---|---|
+| <img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="400"> | <img width="400" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"> |
+
+| [Ethereum transaction provider](https://web3-project-lovat.vercel.app) | [AI Image Generator](https://ai-image-generator-seven.vercel.app) |
+|---|---|
+| <img width="400" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="400" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
 <br>
-<img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="400"><br><br>
-[Zoom Clone](https://zoom-clone-one-gilt.vercel.app)
-<br>
-<img width="400" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"><br><br>
-[Ethereum transaction provider](https://web3-project-lovat.vercel.app)
-<br>
-<img width="400" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"><br><br>
-[AI Image Generator](https://ai-image-generator-seven.vercel.app)<br>
-<img width="400" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd">
 <br>
 <br>
 # 💫 About Me:
