@@ -1,5 +1,5 @@
 # Hi! I'm Kuba 👋
-Im enthusiastic future Junior Java, Full-stack ,RPA Developer with a solid foundation in Java and front-end technologies!
+Im enthusiastic future RPA and NEXT.js devloper!
 <br>
 <br>
 🚀 I'm currently working on an exciting Banking application. Feel free to explore my Apps
