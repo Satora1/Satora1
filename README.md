@@ -13,6 +13,10 @@ Im enthusiastic future RPA and NEXT.js devloper!
 | [Ethereum transaction provider](https://web3-project-lovat.vercel.app) | [AI Image Generator](https://ai-image-generator-seven.vercel.app) |
 |---|---|
 | <img width="500" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="500" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
+
+|[Private HealtCare Menager](https://healt-care-menagment-app-2yp1.vercel.app)| |
+|---|---|
+|<img width="500" src="https://private-user-images.githubusercontent.com/116550178/361912699-a22af43e-d530-4172-a593-4fbe33844483.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3ODAwNzIsIm5iZiI6MTcyNDc3OTc3MiwicGF0aCI6Ii8xMTY1NTAxNzgvMzYxOTEyNjk5LWEyMmFmNDNlLWQ1MzAtNDE3Mi1hNTkzLTRmYmUzMzg0NDQ4My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyN1QxNzI5MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYjM5N2FhYTY5YjYyYzFkOTgxNzcyMWYwNTAzYjYyMzllMjU3OTc1MDlkYWVlYTg3Y2Q3MDBmN2RiZGFiYTRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.hp2gJEVvl4zb1Ww-I2y0tpYwOXVo-H95MRG4rZNFaDk">| |
 <br>
 <br>
 <br>
