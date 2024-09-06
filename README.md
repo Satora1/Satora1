@@ -8,15 +8,15 @@ Im enthusiastic future RPA and NEXT.js devloper!
 💫 Check out my portfolio:  
 | [Bank Menagment](https://banking-menagement.vercel.app/) | [Zoom Clone](https://zoom-clone-one-gilt.vercel.app) |
 |---|---|
-| <img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="500" height="400"> | <img width="500" height="400" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"> |
+| <img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="500" height="200"> | <img width="500" height="200" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"> |
 
 | [Ethereum transaction provider](https://web3-project-lovat.vercel.app) | [AI Image Generator](https://ai-image-generator-seven.vercel.app) |
 |---|---|
-| <img width="500" height="400" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="500" height="400" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
+| <img width="500" height="200" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="500" height="200" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
 
 |[Private HealtCare Menager](https://healt-care-menagment-app-2yp1.vercel.app)| |
 |---|---|
-|<img width="500" height="400" src="https://private-user-images.githubusercontent.com/116550178/363997281-45bcd8b3-8e60-49da-8b60-61e64526d178.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzNjk3MjQsIm5iZiI6MTcyNTM2OTQyNCwicGF0aCI6Ii8xMTY1NTAxNzgvMzYzOTk3MjgxLTQ1YmNkOGIzLThlNjAtNDlkYS04YjYwLTYxZTY0NTI2ZDE3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwM1QxMzE3MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjhjN2Q5ZmM2NzljYWM5ZjhiNTZhMzRjYWJjYWNlZjA0ZDk4NWE2YTIwZTE2ZjA1OGM3NGRlMDI2ZDY3N2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RsdJw20Xua4JVWz1Yh21ZFAOS7LTxHHx0P1XKizdO90">| |
+|<img width="500" height="200" src="https://private-user-images.githubusercontent.com/116550178/363997281-45bcd8b3-8e60-49da-8b60-61e64526d178.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzNjk3MjQsIm5iZiI6MTcyNTM2OTQyNCwicGF0aCI6Ii8xMTY1NTAxNzgvMzYzOTk3MjgxLTQ1YmNkOGIzLThlNjAtNDlkYS04YjYwLTYxZTY0NTI2ZDE3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwM1QxMzE3MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjhjN2Q5ZmM2NzljYWM5ZjhiNTZhMzRjYWJjYWNlZjA0ZDk4NWE2YTIwZTE2ZjA1OGM3NGRlMDI2ZDY3N2JiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RsdJw20Xua4JVWz1Yh21ZFAOS7LTxHHx0P1XKizdO90">| |
 <br>
 <br>
 <br>
