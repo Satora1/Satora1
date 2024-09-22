@@ -1,5 +1,5 @@
 # Hi! I'm Kuba 👋
-Im enthusiastic future RPA and NEXT.js devloper!
+Im enthusiastic  RPA , NEXT.js and Full Stack devloper!
 <br>
 <br>
 🚀 I'm currently working on an exciting Banking application. Feel free to explore my Apps
