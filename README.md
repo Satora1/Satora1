@@ -6,18 +6,18 @@ Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
 <br>
 <br>
 💫 Check out my portfolio:  
-| [Bank Menagment](https://banking-menagement.vercel.app/) | [Zoom Clone](https://zoom-clone-one-gilt.vercel.app) |
+| [Bank Management](https://banking-menagement.vercel.app/) | [Zoom Clone](https://zoom-clone-one-gilt.vercel.app) |
 |---|---|
 | <img src="https://github.com/Satora1/Banking_Menagement/assets/116550178/70e80c6e-b344-4519-b3ea-1b6feeecaa0a" alt="BANK" width="500" height="200"> | <img width="500" height="200" alt="zoom" src="https://github.com/Satora1/ZoomClone/assets/116550178/406bd6a0-6fc5-4e08-9c99-113d6c788a64"> |
 
-| [Ethereum transaction provider](https://web3-project-lovat.vercel.app) | [AI Image Generator](https://ai-image-generator-seven.vercel.app) |
+| [Ethereum Transaction Provider](https://web3-project-lovat.vercel.app) | [AI Image Generator](https://ai-image-generator-seven.vercel.app) |
 |---|---|
 | <img width="500" height="200" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="500" height="200" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
 
-|[Private HealtCare Menager](https://healt-care-menagment-app-2yp1.vercel.app)|[NEXT PROJECT]||
+| [Private Healthcare Manager](https://healt-care-menagment-app-2yp1.vercel.app) | [NEXT PROJECT] |
 |---|---|
-|<img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf">|<img width="500" height="200">
-| | 
+| <img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf"> | <img width="500" height="200" alt="Next Project"> |
+
 
 <br>
 <br>
