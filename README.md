@@ -1,5 +1,5 @@
 # Hi! I'm Kuba 👋
-Im enthusiastic  RPA , NEXT.js and Full Stack devloper!
+Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
 <br>
 <br>
 🚀 I'm currently working on an exciting Uber clone application for mobile . Feel free to explore my Apps
@@ -17,7 +17,11 @@ Im enthusiastic  RPA , NEXT.js and Full Stack devloper!
 |[Private HealtCare Menager](https://healt-care-menagment-app-2yp1.vercel.app)| |
 |---|---|
 |<img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf">
-| |
+| 
+|[NEXT PROJECT]| |
+|---|---|
+|<img width="500" height="200">
+| 
 <br>
 <br>
 <br>
