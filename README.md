@@ -16,7 +16,8 @@ Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
 
 | [Private Healthcare Manager](https://healt-care-menagment-app-2yp1.vercel.app) | [NEXT PROJECT] |
 |---|---|
-| <img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf"> | <img width="500" height="200" alt="Next Project"> |
+| <img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf"> | <img width="500" height="200" alt="Next Project" src="https://via.placeholder.com/500x200?text=Next+Project"> |
+
 
 
 <br>
