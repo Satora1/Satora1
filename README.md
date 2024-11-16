@@ -2,7 +2,7 @@
 Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
 <br>
 <br>
-🚀 I'm currently working on an exciting Uber clone application for mobile . Feel free to explore my Apps
+🚀 I'm currently working on an exciting  applications for mobile and desktop . Feel free to explore my Apps
 <br>
 <br>
 💫 Check out my portfolio:  
