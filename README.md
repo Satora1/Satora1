@@ -24,7 +24,6 @@ Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
 <br>
 <br>
 <br>
-# 💫 About Me:
 📫 You can reach me on satorakuba@gmail.com/jakub.satora@irma.pl
 
 
