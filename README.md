@@ -1,5 +1,6 @@
 I'm currently working as an IT Technician.<br><br>
-I'm passionate about RPA, Next.js, and Full Stack Development!
+I'm a certified RPA Specialist, Next.js Developer, and Full Stack Developer!
+<br>
 <br>
 🚀 I'm currently developing exciting applications for managing tasks on both mobile and desktop platforms. Feel free to explore my work!
 <br>
