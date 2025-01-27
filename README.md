@@ -1,9 +1,9 @@
-# Hi! I'm Kuba 👋
-Im enthusiastic  RPA , NEXT.js and Full Stack devloper !
+I'm currently working as an IT Technician.
+I'm passionate about RPA, Next.js, and Full Stack Development!
 <br>
+🚀 I'm currently developing exciting applications for managing tasks on both mobile and desktop platforms. Feel free to explore my work!
 <br>
-🚀 I'm currently working on an exciting menaging applications for mobile and desktop . Feel free to explore my Apps
-<br>
+🔧 My expertise includes working with Warehouse Management Systems (WMS), repairing hardware, and fixing software issues to ensure smooth operations.
 <br>
 💫 Check out my portfolio:  
 | [Bank Management](https://banking-menagement.vercel.app/) | [Zoom Clone](https://zoom-clone-one-gilt.vercel.app) |
