@@ -1,4 +1,4 @@
-I'm currently working as an IT Technician.<br><br>
+I'm currently working as e-commerce i IT specialist.<br><br>
 I'm a certified RPA Specialist, Next.js Developer, and Full Stack Developer!
 <br>
 <br>
