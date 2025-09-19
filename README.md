@@ -15,7 +15,7 @@ I'm a certified RPA Specialist, Next.js Developer, and Full Stack Developer!
 |---|---|
 | <img width="500" height="200" src="https://github.com/Satora1/Web3_Project/assets/116550178/9df90d22-17bc-41d2-a84f-a2739478b6df"> | <img width="500" height="200" alt="IMAGE AI" src="https://github.com/Satora1/Ai_Image_Generator/assets/116550178/20c4451a-3188-4a48-b58a-261fa25693fd"> |
 
-| [Private Healthcare Manager](https://healt-care-menagment-app-2yp1.vercel.app) | [NEXT PROJECT] |
+| [Private Healthcare Manager](https://healt-care-menagment-app-2yp1.vercel.app) | [E-comerce/Erp platform](https://bigapp.vercel.app) |
 |---|---|
 | <img width="500" height="200" alt="Care+" src="https://github.com/user-attachments/assets/391b7abe-3f1b-4181-bf85-6fba9d0ee6cf"> | <img width="500" height="200" alt="Next Project" src="https://via.placeholder.com/500x200?text=Next+Project"> |
 
